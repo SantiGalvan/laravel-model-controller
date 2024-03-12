@@ -4,7 +4,7 @@
 
 @section('main-content')
     <main>
-        <div class="container my-5">
+        <div class="container py-5">
             <div class="row g-4">
                 @foreach ($movies as $movie)
                     <div class="col-3">
