@@ -1,1 +1,14 @@
 @import '~bootstrap/scss/bootstrap';
+
+body {
+    background-color: #d4a373;
+}
+
+.card {
+    height: 200px;
+    background-color: #ccd5ae;
+}
+
+.card:hover {
+    scale: 1.1;
+}
